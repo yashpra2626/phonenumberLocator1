@@ -1,0 +1,1 @@
+number =  str(input("Enter your number"))
